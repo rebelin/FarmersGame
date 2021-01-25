@@ -1,6 +1,6 @@
 Farmer's Game
 =============
-
+Oct 2017: AP computer science
 A simulation of the Farmer's Game
 
 Gameplay
