@@ -1,8 +1,5 @@
 Farmer's Game
 =============
-Oct 2017
-
-AP Computer Science HW: Boolean Practice
 
 A simulation of the classic Farmer's Game
 
